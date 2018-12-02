@@ -1,6 +1,6 @@
 <?php
-
-// Heritance is the features of oop(Object Oriented Programming)..
+//Inheritance
+// Inheritance is the features of oop(Object Oriented Programming)..
 //This is the first project example of doing inheritance by me..
 
 class car{
